@@ -1,0 +1,4 @@
+2/27/2020 16:57:23;Icoslav;ADMIN;Successful login
+
+2/27/2020 16:57:31;Icoslav;ADMIN;Change of user role for user: Icoslav
+

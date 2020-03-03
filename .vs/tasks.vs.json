@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Logger",
+      "appliesTo": "UserLogin/UserLogin/Logger.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Logger",
+      "appliesTo": "UserLogin/UserLogin/Logger.cs",
+      "type": "launch"
+    }
+  ]
+}
